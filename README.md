@@ -1,3 +1,3 @@
-# ASX_Announcements_Viewer
+# ASX Announcements Viewer
 
-You can test the functionality with running the comand "streamlit run test.py"
+You can test the functionality by running the command `streamlit run test.py`.
